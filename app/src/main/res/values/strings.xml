@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Konversi Suhu</string>
+    <string name="masukan_suhu">Masukan Suhu </string>
+    <string name="masukan_suhu_awal">Masukan Suhu Awal</string>
+    <string name="masukan_konversi">Masukan konversi</string>
+    <string name="reset">Reset</string>
+    <string name="convert">Convert</string>
+    <string name="hasil">Hasil</string>
+    <string-array name="jenis_suhu">
+        <item>Kelvin</item>
+        <item>Reamur</item>
+        <item>Fahrenheit</item>
+        <item>Celcius</item>
+    </string-array>
+</resources>
